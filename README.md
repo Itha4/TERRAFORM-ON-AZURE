@@ -2,10 +2,10 @@
 Practising how to automate cloud infrastructure using Terraform.
 Files included are all trying to achieve a different thing.
 - Configuring a resource group
-- Configuring a Virtual network
+- Configuring a virtual network
 - Configuring a subnet
 - Configuring storage account and a container
-- configuring a vm
+- configuring a virtual machine
 
 The terraform commands used on the terminal are 
 
